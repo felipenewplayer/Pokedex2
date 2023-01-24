@@ -9,8 +9,6 @@ export const NavBar = () => {
                 <img src="https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png" alt="PokéAPI"
                      className=" navImg" />
             </div>
-
-            <div className="favorite-txt ">{favoritePokemons.length} ❤️ <span>favorite</span></div>
         </nav>
 
     )
