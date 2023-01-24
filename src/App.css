@@ -155,3 +155,27 @@ color: #ffffff;
   font-size: 1.25rem;
   padding: 25px;
 }
+@media(max-width:425px){
+  .pokedex-grid{
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+
+  .pokemon-card{
+    width: 100%;
+  }
+}
+
+@media(max-width:425px){
+  .pokedex-grid{
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+
+  .pokemon-card{
+    width: 100%;
+  }
+}
+
